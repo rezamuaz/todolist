@@ -1,0 +1,65 @@
+{
+  "@@locale": "id",
+  "appTitle": "b24",
+  "@appTitle": {
+    "description": "Before 24 Hours Guarantee"
+  },
+  "bodyTitle": "english",
+  "choiceSchedule": "pilih jadwal",
+  "confirm": "konfirmasi",
+  "emergencyContact": "kontak darurat",
+  "errField": "{label} tidak valid!",
+  "@errField": {
+    "description": "errField",
+    "placeholders": {
+      "label": {
+        "example": "email",
+        "type": "String"
+      }
+    }
+  },
+  "forgotPassword": "lupa password",
+  "formAccountHoldersName": "nama pemilik rekening",
+  "formAccountNumber": "nomor rekening",
+  "formAddress": "alamat",
+  "formBankName": "nama bank",
+  "formCarBrand": "Merk Kendaraan",
+  "formCardModel": "Model Kendaraan",
+  "formConfirmPassword": "Konfirmasi Password",
+  "formCustomerTitle": "Pendaftaran Pelanggan",
+  "formDateofBirth": "tanggal lahir",
+  "formEmail": "email",
+  "formEmailSended": "kode verifikasi telah dikirim ke email anda",
+  "formFullName": "nama lengkap",
+  "formIDCard": "NIK",
+  "formLicensePlate": "nopol",
+  "formPassword": "password",
+  "formProfilePhoto": "Foto Profil",
+  "formRelationNumber": "Nomor Relasi",
+  "formSend": "kirim",
+  "formUploadAccountBook": "upload buku rekening",
+  "formUploadIDCard": "Upload KTP, SIM & KK",
+  "formWhatappsNumber": "no whatapps",
+  "formYearOfVehicleManufacture": "Tahun Kendaraan",
+  "labelBack": "kembali",
+  "labelContinue": "selanjutnya",
+  "login": "masuk",
+  "loginToYourAccount": "login to your account",
+  "register": "daftar",
+  "registerTitle": "pendaftaran driver",
+  "rememberPassword": "ingat kata sandi",
+  "resendCode": "kirim code kembali",
+  "save": "simpan",
+  "termsCondition1": "saya setuju",
+  "termsCondition2": "dengan syarat dan ketentuan dan kebijakan privasi",
+  "valInputNotEmpty": "{name} belum diisi!",
+  "@valInputNotEmpty": {
+    "description": "validasi input tidak boleh kosong",
+    "placeholders": {
+      "name": {
+        "example": "kata sandi",
+        "type": "String"
+      }
+    }
+  }
+}

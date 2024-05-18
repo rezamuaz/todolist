@@ -1,0 +1,65 @@
+{
+  "@@locale": "en",
+  "appTitle": "b24",
+  "@appTitle": {
+    "description": "Before 24 Hours Guarantee"
+  },
+  "bodyTitle": "english",
+  "choiceSchedule": "choice schedule",
+  "confirm": "confirm",
+  "emergencyContact": "emergency contact",
+  "errField": "invalid {label}!",
+  "@errField": {
+    "description": "errField",
+    "placeholders": {
+      "label": {
+        "example": "email",
+        "type": "String"
+      }
+    }
+  },
+  "forgotPassword": "forgot password",
+  "formAccountHoldersName": "account holder's name",
+  "formAccountNumber": "account number",
+  "formAddress": "address",
+  "formBankName": "bank name",
+  "formCarBrand": "Car Brand",
+  "formCardModel": "Car Model",
+  "formConfirmPassword": "Confirm Password",
+  "formCustomerTitle": "Register Customer",
+  "formDateofBirth": "date of birth",
+  "formEmail": "email",
+  "formEmailSended": "We have sent a verification code to the email address",
+  "formFullName": "fullname",
+  "formIDCard": "ID Card",
+  "formLicensePlate": "license plate",
+  "formPassword": "password",
+  "formProfilePhoto": "Profile Photo",
+  "formRelationNumber": "relation number",
+  "formSend": "send",
+  "formUploadAccountBook": "upload account book",
+  "formUploadIDCard": "Upload KTP, SIM & KK",
+  "formWhatappsNumber": "whatapps number",
+  "formYearOfVehicleManufacture": "year of vehicle manufacture",
+  "labelBack": "back",
+  "labelContinue": "continue",
+  "login": "login",
+  "loginToYourAccount": "login to your account",
+  "register": "register",
+  "registerTitle": "driver registration",
+  "rememberPassword": "remember password",
+  "resendCode": "resend code",
+  "save": "save",
+  "termsCondition1": "I agree to the",
+  "termsCondition2": "term and conditions  and Privacy Policy",
+  "valInputNotEmpty": "{name} is required!",
+  "@valInputNotEmpty": {
+    "description": "validation input not allow to empty",
+    "placeholders": {
+      "name": {
+        "example": "password",
+        "type": "String"
+      }
+    }
+  }
+}
